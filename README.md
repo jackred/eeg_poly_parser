@@ -12,7 +12,9 @@ run py .\script.py
 
 ## formatting
 
-you need to put the data file inside `data`  
+you need to put the data file inside `data`   
+the file should be named like this:
+`mailname@mail.tldX.csv` (X being an optional number)
 the formatted file will go inside `formatted`  
 
 ### filename.txt 
